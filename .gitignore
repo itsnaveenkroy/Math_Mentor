@@ -1,0 +1,23 @@
+# Environment
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Data (auto-generated)
+data/chroma_db/
+data/memory/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Misc
+*.egg-info/
+dist/
+build/
