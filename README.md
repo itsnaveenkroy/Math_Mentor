@@ -3,6 +3,8 @@
 A **multimodal AI math tutor** that reliably solves JEE-style math problems using a **multi-agent pipeline**, **RAG over a curated knowledge base**, and **memory-based self-learning**. Accepts **text, image (OCR), and audio (speech-to-text)** input.
 
 ---
+## Deployed App Link: https://huggingface.co/spaces/itsnaveenkroy/math_mentor
+---
 
 ## Table of Contents
 
